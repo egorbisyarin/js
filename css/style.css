@@ -1,0 +1,36 @@
+.menu {
+    width: 280px;
+    height: 175px;
+    background-color: royalblue;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    font-family: fantasy;
+    color: white;
+    font-size: 22px;
+}
+
+input {
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: white;
+    color: navy; 
+    font-family: fantasy;
+    border: 0;
+    border-radius: 15px;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: red;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: serif;
+    padding: 10px;
+}
